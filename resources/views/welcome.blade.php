@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">IOTUpdateServer123123</a>
+            <a class="navbar-brand" href="#">IOTUpdateServer1233</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -72,7 +72,7 @@
 </div> <!-- end of container -->
 
 <div class="row">
-    <div class="col-md-6 col-md-offset-2">
+    <div class="col-md-8 col-md-offset-1">
         <div class="post">
             <h3>Title</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -104,7 +104,7 @@
             <a href="#" class="btn btn-primary">Read more</a>
         </div>
     </div>
-    <div class="col-md-3 col-md-offset-1">
+    <div class="col-md-2 col-md-offset-1">
         <h2>sidebar</h2>
     </div>
 </div>
